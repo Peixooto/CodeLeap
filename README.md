@@ -4,10 +4,12 @@
 
 ## 📦 Installation
 
-Clone the repository, install the dependencies and execute the project:
-```bash
-git clone <link https to clone >
+# Clone the repository, install the dependencies and execute the project:
 
+- git clone link.https
+- cd /vite-project and :
 ```bash
 npm install
 npm run dev
+
+
